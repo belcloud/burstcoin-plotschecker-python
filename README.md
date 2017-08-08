@@ -1,5 +1,5 @@
 # burstcoin-plotschecker-python
-A simple Burstcoin plots checker written in python 
+A simple recursive Burstcoin plots checker written in python 
 
 Requires:
 *python 3
