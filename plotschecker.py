@@ -35,7 +35,7 @@ def get_file_size(file_path):
 
 
 if len(sys.argv) < 2:
-    sys.stdout.write(colored("BURST plots checker (version 1.0)\nChecking and validation plots for BURST\t", color='green'))
+    sys.stdout.write(colored("BURST plots checker (version 1.0)\nChecking and validation plots for BURST\t\n", color='green'))
     print(colored("[Original idea: Blago]", color = 'blue'))
     print(colored("[Sponsored by: VPS.ag - Quality VPS for only 2 EUR ]", color = 'blue'))
     print(colored("[]", color = 'blue'))  
